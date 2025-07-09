@@ -1,4 +1,4 @@
-# Python_PyxelGame
+# ABANDEONED Python_PyxelGame
 This is a python project creating a game in Pyxel.
 Source: https://www.youtube.com/watch?v=0g0L5iGKv9g&list=WL&index=17
 Title: [ENG SUB]Easily Create Retro Games with Pyxel! Even Beginners Can Make Games in Python!
